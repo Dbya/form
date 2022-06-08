@@ -1,0 +1,41 @@
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    margin: 10px;
+    margin-top:150px;
+}
+section{
+    display: flex;
+}
+h3{
+    color: green;
+    font-size: 56px;
+    left:50px;
+}
+main{
+    text-align: center;
+    justify-content: center;
+}
+main section{
+    text-align: center;
+    justify-content: center;
+}
+p{
+    text-align: justify;
+    height: 200px;
+    width: 300px;
+    box-sizing: border-box;
+    margin-bottom: 60px;
+    /* border:2px solid green; */
+    
+    
+}
+button{
+    background-color:green;
+    color: whitesmoke;
+}
+span{
+    color:blue;
+    margin: 5px;
+}

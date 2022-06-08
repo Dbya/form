@@ -3,10 +3,17 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Main from './Second/Main';
+
+import Api from'./third/Api'
+// import Firstproject from './Firstproject';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+   
+     {/* <App /> */}
+     <Api />
+     
   </React.StrictMode>,
   document.getElementById('root')
 );
